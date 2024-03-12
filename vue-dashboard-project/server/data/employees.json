@@ -1,0 +1,182 @@
+[
+    {
+        "name": "Budi Hardi",
+        "job": "Front end",
+        "dob": "2000-09-10",
+        "skill": ["react", "css", "vue"]
+    },
+    {
+        "name": "Joko Susanto",
+        "job": "Back end",
+        "dob": "1998-05-20",
+        "skill": ["node.js", "express", "MongoDB"]
+    },
+    {
+        "name": "Lina Wijaya",
+        "job": "Fullstack",
+        "dob": "1995-12-15",
+        "skill": ["react", "Node.js", "MongoDB"]
+    },
+    {
+        "name": "Ani Cahyani",
+        "job": "Front end",
+        "dob": "1997-08-25",
+        "skill": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+        "name": "Rudi Haryanto",
+        "job": "Back end",
+        "dob": "1994-03-05",
+        "skill": ["Java", "Spring Boot", "Hibernate"]
+    },
+    {
+        "name": "Ahmad Santoso",
+        "job": "Front end",
+        "dob": "1996-11-12",
+        "skill": ["Vue.js", "CSS", "JavaScript"]
+    },
+    {
+        "name": "Dewi Kusuma",
+        "job": "Back end",
+        "dob": "1993-02-28",
+        "skill": ["Python", "Django", "SQLAlchemy"]
+    },
+    {
+        "name": "Eko Wijaya",
+        "job": "Fullstack",
+        "dob": "1991-07-18",
+        "skill": ["Angular", "Node.js", "MongoDB"]
+    },
+    {
+        "name": "Siti Rahayu",
+        "job": "Front end",
+        "dob": "1990-04-08",
+        "skill": ["React", "HTML", "CSS"]
+    },
+    {
+        "name": "Hadi Suryadi",
+        "job": "Back end",
+        "dob": "1988-10-30",
+        "skill": ["Ruby", "Rails", "PostgreSQL"]
+    },
+    {
+        "name": "Indah Puspita",
+        "job": "Fullstack",
+        "dob": "1987-06-22",
+        "skill": ["React", "Express", "MongoDB"]
+    },
+    {
+        "name": "Firdaus",
+        "job": "Front end",
+        "dob": "1986-01-14",
+        "skill": ["JavaScript", "HTML", "CSS"]
+    },
+    {
+        "name": "Rina Sari",
+        "job": "Back end",
+        "dob": "1984-08-06",
+        "skill": ["PHP", "Laravel", "MySQL"]
+    },
+    {
+        "name": "Adi Nugroho",
+        "job": "Fullstack",
+        "dob": "1982-03-23",
+        "skill": ["Angular", "Node.js", "MongoDB"]
+    },
+    {
+        "name": "Nita Sari",
+        "job": "Front end",
+        "dob": "1981-12-11",
+        "skill": ["React", "CSS", "JavaScript"]
+    },
+    {
+        "name": "Bambang Widodo",
+        "job": "Back end",
+        "dob": "1979-05-03",
+        "skill": ["Java", "Spring", "Hibernate"]
+    },
+    {
+        "name": "Maya Dewi",
+        "job": "Fullstack",
+        "dob": "1977-01-27",
+        "skill": ["Vue.js", "Node.js", "MongoDB"]
+    },
+    {
+        "name": "Eka Putra",
+        "job": "Front end",
+        "dob": "1975-10-16",
+        "skill": ["JavaScript", "HTML", "CSS"]
+    },
+    {
+        "name": "Santi Agustina",
+        "job": "Back end",
+        "dob": "1973-04-07",
+        "skill": ["Python", "Django", "PostgreSQL"]
+    },
+    {
+        "name": "Agus Santoso",
+        "job": "Fullstack",
+        "dob": "1971-11-29",
+        "skill": ["React", "Node.js", "MongoDB"]
+    },
+    {
+        "name": "Diana Wulandari",
+        "job": "Front end",
+        "dob": "1970-08-19",
+        "skill": ["Vue.js", "CSS", "JavaScript"]
+    },
+    {
+        "name": "Anto Susanto",
+        "job": "Back end",
+        "dob": "1968-02-10",
+        "skill": ["Java", "Spring Boot", "Hibernate"]
+    },
+    {
+        "name": "Retno Cahyani",
+        "job": "Fullstack",
+        "dob": "1966-07-04",
+        "skill": ["Angular", "Express", "MongoDB"]
+    },
+    {
+        "name": "Hendro Wijaya",
+        "job": "Front end",
+        "dob": "1964-12-26",
+        "skill": ["JavaScript", "HTML", "CSS"]
+    },
+    {
+        "name": "Rini Susanti",
+        "job": "Back end",
+        "dob": "1962-09-17",
+        "skill": ["Python", "Flask", "SQLAlchemy"]
+    },
+    {
+        "name": "Wahyu Kurniawan",
+        "job": "Fullstack",
+        "dob": "1960-05-10",
+        "skill": ["React", "Node.js", "MongoDB"]
+    },
+    {
+        "name": "Siska Puspita",
+        "job": "Front end",
+        "dob": "1958-01-01",
+        "skill": ["Vue.js", "CSS", "JavaScript"]
+    },
+    {
+        "name": "Agus Sutrisno",
+        "job": "Back end",
+        "dob": "1956-06-14",
+        "skill": ["Java", "Spring", "Hibernate"]
+    },
+    {
+        "name": "Murni Indah",
+        "job": "Fullstack",
+        "dob": "1954-11-25",
+        "skill": ["Angular", "Express", "MongoDB"]
+    },
+    {
+        "name": "Susi Hartati",
+        "job": "Front end",
+        "dob": "1952-04-07",
+        "skill": ["JavaScript", "HTML", "CSS"]
+    }
+]
